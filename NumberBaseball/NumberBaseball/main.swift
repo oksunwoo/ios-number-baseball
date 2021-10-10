@@ -111,3 +111,5 @@ func validateNumber() {
 }
 
 startMenu()
+
+// 새로운 브랜치 4-Jager-yoo-1 생성하고 첫 커밋을 올리는 테스트
